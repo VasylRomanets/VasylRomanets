@@ -1,1 +1,1 @@
-![STE](https://github.com/VasylRomanets/VasylRomanets/assets/23483473/1b32fe48-8306-4c50-9a34-d257d923f720)
+![STL](https://github.com/VasylRomanets/VasylRomanets/assets/23483473/8794c9d5-13ef-484a-919b-46a4150699e5)
