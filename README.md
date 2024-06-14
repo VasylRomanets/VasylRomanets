@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=6000&pause=1000&color=BA96AA&lines=Hi+There!+👋;+I'm+Vasyl+Romanets;+A+Game+Developer+from+Ukraine+🇺🇦;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Source+Code+Pro&size=35&center=true&vCenter=true&width=900&height=70&duration=6000&pause=1000&color=BA96AA&lines=Hi+There!+👋;+I'm+Vasyl+Romanets;+A+Game+Developer+from+Ukraine+🇺🇦;" />
 </h1>
 
 #### Check out [Summer Catchers](https://summercatchers.com/), an adorable indie game I've co-developed.
