@@ -8,6 +8,13 @@
 
 </br>
 
+<!-- Skill icons section -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=unity,cs,git,githubactions,github,gitlab,bitbucket,rider,vscode,jenkins,npm,postman,stackoverflow,apple,windows" />
+</div>
+
+</br>
+
 <!-- Spotify section -->
 <div align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=o1dseaman&redirect=true">
