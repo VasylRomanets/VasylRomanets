@@ -10,7 +10,9 @@
 
 <!-- Skill icons section -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,git,githubactions,github,gitlab,bitbucket,rider,vscode,jenkins,npm,postman,stackoverflow,apple,windows" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,cs,git,githubactions,github,gitlab,bitbucket,rider,vscode,jenkins,npm,postman,stackoverflow,apple,windows" />
+  </a>
 </div>
 
 </br>
