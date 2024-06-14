@@ -6,18 +6,6 @@
   </a>
 </p>
 
-<!-- Soical icons section -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/vasylromanets">
-    <img src="https://github.com/VasylRomanets/VasylRomanets/assets/23483473/08a33500-eb54-49d6-9b45-920f0be39afd" alt="LinkedIn" title="LinkedIn" width="32"/>
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://x.com/VasylRomanets">
-    <img src="https://github.com/VasylRomanets/VasylRomanets/assets/23483473/44fc3af1-1f5d-433d-8d3a-9a830f618dfb" alt="Twitter" title="Twitter" width="32"/>
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
-
 <!-- Spotify section -->
 <p align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=o1dseaman&redirect=true">
