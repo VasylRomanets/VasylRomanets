@@ -6,5 +6,5 @@
 
 [![SummerCatchers](https://github.com/VasylRomanets/VasylRomanets/assets/23483473/8794c9d5-13ef-484a-919b-46a4150699e5)](https://summercatchers.com/)
 
-### Listening to:
+### Listening to 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=o1dseaman&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=o1dseaman&redirect=true)
