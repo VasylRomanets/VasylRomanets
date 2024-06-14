@@ -15,18 +15,16 @@
 
 </br>
 
-<!-- Spotify section -->
-<div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=o1dseaman&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=o1dseaman&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=false&bar_color=f75d7e&bar_color_cover=false" alt="Typing SVG" />
-  </a>
-</div>
-
-</br>
-
 <!-- Summer Catchers GIF -->
 <div align="center">
   <a href="https://summercatchers.com">
     <img src="https://github.com/VasylRomanets/VasylRomanets/assets/23483473/8794c9d5-13ef-484a-919b-46a4150699e5" alt="Summer Catchers" />
+  </a>
+</div>
+
+<!-- Spotify section -->
+<div align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=o1dseaman&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=o1dseaman&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=false&bar_color=f75d7e&bar_color_cover=false" alt="Typing SVG" />
   </a>
 </div>
