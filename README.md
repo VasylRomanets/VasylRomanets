@@ -2,7 +2,7 @@
 
 <!-- Introduction section -->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F75D7E&background=FF7DDC00&center=true&vCenter=true&random=false&width=900&height=70&lines=Hey+there+👋;This+is+Vasyl+Romanets+👨‍💻;Game+dev+from+Ukraine+🇺🇦;10%2B+years+of+coding+experience+🛠️;Loves+open+source+and+cats+🐈‍⬛;Music+enthusiast+🎧;Check+out+my+game+👇" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F75D7E&background=FF7DDC00&center=true&vCenter=true&random=false&width=900&height=70&lines=Hey+there+👋;This+is+Vasyl+Romanets+👨‍💻;Game+dev+from+Ukraine+🇺🇦;10%2B+years+of+coding+experience+🛠️;Love+open+source+and+cats+🐈‍⬛;Music+enthusiast+🎧;Check+out+my+game+👇" alt="Typing SVG" />
   </a>
 </div>
 
