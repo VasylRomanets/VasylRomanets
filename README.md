@@ -1,6 +1,6 @@
 <!-- Introduction section -->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&pause=1000&color=F75D7E&background=FF7DDC00&center=true&vCenter=true&random=false&width=900&height=70&lines=Hey+there+👋;This+is+Vasyl+Romanets+👨‍💻;Game+dev+from+Ukraine+🇺🇦;11%2B+years+of+coding+experience+🛠️;Love+open+source+and+cats+🐈‍⬛;Music+enthusiast+🎧;Hooked+on+chess+♟️;Check+out+my+game+👇" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Geist+Mono&size=30&pause=1000&color=F75D7E&background=FF7DDC00&center=true&vCenter=true&random=false&width=900&height=70&lines=Hey+there+👋;This+is+Vasyl+Romanets+👨‍💻;Game+dev+from+Ukraine+🇺🇦;11%2B+years+of+coding+experience+🛠️;Love+open+source+and+cats+🐈‍⬛;Music+enthusiast+🎧;Hooked+on+chess+♟️;Check+out+my+game+👇" alt="Typing SVG" />
   </a>
 </div>
 
