@@ -12,7 +12,38 @@
   </a>
 </div>
 
-<!-- Badges -->
+<!-- "Glassmorphic" Text Banner -->
+<!--
+<div align="center">
+  <img src="https://img.shields.io/badge/ENGINEERING_THE_FUTURE-F75D7E?style=for-the-badge&logo=unity&logoColor=white" width="100%" />
+</div>
+-->
+
+<!-- GitHub Readme Streak Stats -->
+<!--
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VasylRomanets&currStreakNum=F75D7E&fire=F75D7E&sideLabels=ffffff&sideNums=ffffff&dates=ffffff&background=0d1117&ring=F75D7E&stroke=F75D7E" alt="Vasyl's GitHub Streak" />
+</div>
+-->
+
+<!-- GitHub Readme Stats -->
+<!--
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=VasylRomanets&show_icons=true&title_color=F75D7E&icon_color=F75D7E&text_color=ffffff&bg_color=0d1117&hide_border=true&include_all_commits=true" alt="Vasyl's GitHub Stats" />
+</div>
+-->
+
+<!-- Tech Stack Matrix -->
+<!--
+| Layer | Technologies & Frameworks |
+| :--- | :--- |
+| **Primary Engine** | Unity Engine |
+| **Languages** | C# |
+| **Systems & Architecture** | Core Subsystems, ECS, Memory Management |
+| **Environment** | macOS, Ghostty, Claude Code / CLI Agents |
+-->
+
+<!-- Shields.io Badges -->
 <!--
 <div align="center">
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
@@ -23,7 +54,7 @@
 </div>
 -->
 
-<!-- Skill icons -->
+<!-- Skill Icons grid -->
 <!--
 <div align="center">
   <img src="https://skillicons.dev/icons?i=unity,cs,git,githubactions,github,gitlab,bitbucket,rider,vscode,jenkins,npm,postman,stackoverflow,apple,windows" />
