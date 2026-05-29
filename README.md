@@ -8,7 +8,7 @@
 <!-- Summer Catchers GIF -->
 <div align="center">
   <a href="https://summercatchers.com">
-    <img src="https://raw.githubusercontent.com/VasylRomanets/VasylRomanets/refs/heads/main/assets/summer-catchers-stl.gif" alt="Summer Catchers" />
+    <img src="assets/summer-catchers-stl.gif" alt="Summer Catchers" />
   </a>
 </div>
 
